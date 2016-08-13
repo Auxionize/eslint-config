@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-auxionize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "auxionize",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Stefan Stefanov <stefan.bg@gmail.com> (https://auxionize.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.3.0",
+    "eslint-config-google": "^0.6.0"
+  },
+  "dependencies": {},
+  "description": "Standard Auxionze JavaScript Style - ESLint Shareable Config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auxionize/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Auxionize/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Auxionize/eslint-config#readme"
+}
