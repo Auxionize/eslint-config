@@ -9,11 +9,15 @@
   ],
   "author": "Stefan Stefanov <stefan.bg@gmail.com> (https://auxionize.com)",
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^3.3.0",
+  "dependencies": {
     "eslint-config-google": "^0.6.0"
   },
-  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.3.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.3.0"
+  },
   "description": "Standard Auxionze JavaScript Style - ESLint Shareable Config",
   "repository": {
     "type": "git",
