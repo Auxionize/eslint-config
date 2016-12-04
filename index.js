@@ -24,6 +24,7 @@ module.exports = {
         "no-eq-null": ["off"],
         "eqeqeq": ["off"],
         "one-var": ["off"],
-        "quote-props": ["off"]
+        "quote-props": ["off"],
+        "object-curly-spacing": ["off"]
     }
 };
